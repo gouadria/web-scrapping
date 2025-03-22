@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Data",
+    "\\Data\\Controllers",
+    "\\Data\\Models",
+    "\\Data\\Services"
+  ],
+  "SelectedNode": "\\Data\\Controllers\\ScraperController.cs",
+  "PreviewInSolutionExplorer": false
+}
